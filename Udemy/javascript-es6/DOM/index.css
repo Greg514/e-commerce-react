@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.nav-item a {
+  color:black;
+
+}
+
+.title{
+    padding-top:20px;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom:20px;
+}
+
+
+.start-page{
+ text-align: center;
+ padding-bottom:20px;
+}
+
+
+.btn{
+  padding-top:20px;
+
+
+}
+.answer1 , .answer2 , .answer3 {
+  padding-left:30%;
+} 
+
